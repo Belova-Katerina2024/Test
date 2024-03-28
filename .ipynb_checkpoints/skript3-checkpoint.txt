@@ -1,2 +1,4 @@
 age = 30
 name = 'Kate'
+
+year = 2
